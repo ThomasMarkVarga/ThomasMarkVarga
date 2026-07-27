@@ -39,8 +39,8 @@ I'm a software developer who likes building things across the whole spectrum —
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=ThomasMarkVarga&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=ThomasMarkVarga&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+  <img height="180" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages by commit" />
   <br />
   <img src="https://streak-stats.demolab.com?user=ThomasMarkVarga&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </div>
